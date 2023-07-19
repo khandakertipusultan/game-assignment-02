@@ -25,6 +25,8 @@
 
 .menu-item {
     display: flex;
+    justify-content: center;
+    align-items: center;
     list-style: none;
     gap: 32px;
 
@@ -102,9 +104,25 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 48px;
+    text-align: right;
+}
+
+.gamer-para{
+    text-align: right;
+}
+
+.gamer-purpose{
+    text-align: right;
+}
+
+.gamer-unleash{
+    text-align: right;
 }
 
 .btn-km {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: end;
     font-size: 20px;
     padding: 21px 40px;
     background-color: #F948B2;
@@ -288,5 +306,9 @@
 .copyright {
     text-align: center;
     margin-top: 15px;
+    color: white;
+}
+
+.amer-footer{
     color: white;
 }
