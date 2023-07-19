@@ -57,8 +57,8 @@
 .list-item-header {
     list-style: none;
     margin-bottom: 41px;
-   
-    
+
+
 }
 
 .btn-signin {
@@ -196,8 +196,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* gap: 40px; */
     color: white;
+}
+
+.kids-sitting {
+  
+    width: 600px;
+    height: 600px;
+    
 }
 
 .list-item {
@@ -241,8 +247,8 @@
 }
 
 
-.background-footer{
-    background-color:#4EC5F7;
+.background-footer {
+    background-color: #4EC5F7;
 }
 
 .footer-list {
@@ -259,15 +265,15 @@
     height: 5px; */
 }
 
-.footer-logo{
-  
+.footer-logo {
+
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 15px;
 }
 
-.footer-terms{
+.footer-terms {
     margin-top: 25px;
     list-style: none;
     display: flex;
@@ -277,10 +283,7 @@
 
 }
 
-.copyright{
+.copyright {
     text-align: center;
     margin-top: 15px;
-}
-.twitter{
-    height: ;
 }
