@@ -54,7 +54,7 @@
     margin-bottom: 0;
 }
 
-.list-item {
+.list-item-header {
     list-style: none;
     margin-bottom: 41px;
    
@@ -85,7 +85,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 400px;
+    gap: 200px;
 }
 
 
@@ -93,7 +93,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 350px;
+    gap: 100px;
 }
 
 .gamer-title {
@@ -196,7 +196,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px;
+    /* gap: 40px; */
     color: white;
 }
 
