@@ -1,0 +1,286 @@
+.navigation-bar {
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 240px;
+    margin-right: 240px;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo-text {
+    font-size: 45px;
+}
+
+.g-color {
+    color: #FF42A5;
+}
+
+.menu-item {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+
+}
+
+.menu-item li {
+    font-size: 18px;
+}
+
+
+
+.goat {
+
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5rem;
+    width: fit-content;
+    margin-top: 0;
+    margin-bottom: 0;
+
+
+}
+
+.play {
+    margin-bottom: 0;
+}
+
+.list-item {
+    list-style: none;
+    margin-bottom: 41px;
+   
+    
+}
+
+.btn-signin {
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    border-radius: 3rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border: none;
+    color: white;
+    margin-right: 24px;
+}
+
+.btn-go {
+    background: #4EC5F7;
+    border-radius: 3rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border: none;
+    color: white;
+
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+}
+
+
+.gamer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 350px;
+}
+
+.gamer-title {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+}
+
+.btn-km {
+    font-size: 20px;
+    padding: 21px 40px;
+    background-color: #F948B2;
+    border: none;
+    color: white;
+    border-radius: 48px;
+}
+
+.online-game {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 0;
+
+}
+
+.funny-header {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    margin-bottom: 0;
+
+}
+
+.collection-text {
+    text-align: center;
+    font-size: 18px;
+}
+
+.funny-videos {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+
+.play-instantly {
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+
+.play-color {
+    color: #F948B2;
+    font-size: 48px;
+}
+
+.no-downloads {
+    font-size: 48px;
+}
+
+.play-horse {
+    position: relative;
+}
+
+.talikng-angel {
+    position: absolute;
+    top: 360px;
+    right: 461px;
+
+}
+
+.play-games {
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+
+.games-girl {
+
+    position: relative;
+}
+
+.cat-girl {
+    position: absolute;
+    top: 360px;
+    left: 461px;
+}
+
+
+.careers {
+    margin-top: 120px;
+    background-color: #F948B2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: white;
+}
+
+.list-item {
+    list-style: none;
+    display: flex;
+    gap: 97px;
+}
+
+.btn-see {
+    background-color: white;
+    font-size: 20px;
+    padding: 21px 40px;
+    color: #FF42A5;
+    border: none;
+    border-radius: 48px;
+
+}
+
+.logo-text {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+
+
+}
+
+.five-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 57px;
+    margin-bottom: 0;
+}
+
+.four-logo {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 57px;
+}
+
+
+.background-footer{
+    background-color:#4EC5F7;
+}
+
+.footer-list {
+    margin-bottom: 30px;
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.apple-logo {
+    /* width: 5px;
+    height: 5px; */
+}
+
+.footer-logo{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.footer-terms{
+    margin-top: 25px;
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 15px;
+}
+.twitter{
+    height: ;
+}
