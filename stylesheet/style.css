@@ -248,7 +248,7 @@
 
 
 .background-footer {
-    background-color: #4EC5F7;
+    background-color:black;
 }
 
 .footer-list {
@@ -258,6 +258,7 @@
     gap: 60px;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 .apple-logo {
@@ -280,10 +281,12 @@
     gap: 60px;
     justify-content: center;
     align-items: center;
+    color: white;
 
 }
 
 .copyright {
     text-align: center;
     margin-top: 15px;
+    color: white;
 }
